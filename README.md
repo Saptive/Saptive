@@ -1,4 +1,4 @@
 - 🐛 Malware Development  
-- 🧠 Reverse Engineering & Binary Analysis  
+- 🔍 Reverse Engineering & Binary Analysis  
 - ⚙️ Low-Level Programming (C/C++, Assembly)
-- 🕹️ Game Hacking & Cheat Development  
+- ⚒️ Game Hacking & Cheat Development  
